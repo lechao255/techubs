@@ -5,7 +5,7 @@
 @section('header')
     <h1>
         Home
-        <small>Moell Blog</small>
+        <small>TecHubs-Blog</small>
     </h1>
 @endsection
 
