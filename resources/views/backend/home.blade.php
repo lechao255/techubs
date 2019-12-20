@@ -19,7 +19,7 @@
         <div class="col-xs-12">
             <div class="box box-solid" style="padding: 20px;">
                 <strong>开发者信息</strong>
-                <p>Name : moell</p>
+                <p>Name : Techub</p>
                 <p>Email : moell91@foxmail.com</p>
                 <p>博客地址 : <a href="http://moell.cn" target="_blank">moell</a></p>
                 <p>项目地址 : <a href="https://github.com/moell-peng/moell-blog" target="_blank">Github</a></p>
