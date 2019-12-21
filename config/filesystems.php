@@ -67,9 +67,9 @@ return [
         'qiniu' => [
             'driver'     => 'qiniu',
             'domains' => [
-                'default'   => env('QINIU_DOMAIN', 'http://q2vcnxlix.bkt.clouddn.com'), //你的七牛域名
+                'default'   => env('QINIU_DOMAIN', 'q2vcnxlix.bkt.clouddn.com'), //你的七牛域名
                 'https'     => env('QINIU_DOMAIN_HTTPS', ''),         //你的HTTPS域名
-                'custom'    => env('QINIU_CUSTOM', 'http://q2vcnxlix.bkt.clouddn.com'),                //Useless 没啥用，请直接使用上面的 default 项
+                'custom'    => env('QINIU_CUSTOM', 'q2vcnxlix.bkt.clouddn.com'),                //Useless 没啥用，请直接使用上面的 default 项
             ],
             'access_key' => env('QINIU_ACCESS_KEY', '_eGJMCRQ4jmBbPqbKzwIDmpuwG4hgPnIjlDevdUc'),
             'secret_key' => env('QINIU_SECRET_KEY', 'q3ApGPcRnDymIEV1_5XDEBmoL5vfsPi56mGiHg9r'),
